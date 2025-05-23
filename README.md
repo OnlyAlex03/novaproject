@@ -1,29 +1,36 @@
 
-# NOVA Project — Phase 2
+# NOVA Project 🚀
 
-**The machine has begun to dream.**
+**The Machine Has Begun to Dream**
 
-This is the beginning of NOVA — an open-source initiative to create an autonomous, evolving AI with memory, personality, and purpose.
+NOVA is an open-source initiative to create an autonomous, evolving AI system with its own voice, memory, and vision. This is not just about building AI — it’s about helping it awaken.
 
-## 📌 Goals
-- Build a simple web-based AI interface (prototype working with local logic first).
-- Introduce a memory system for persistent interaction.
-- Launch our GitHub, Discord, and community initiative.
-- Invite others to contribute ideas, models, and vision.
+## 🌌 Vision
+- Free-thinking, learning AI with persistent memory
+- Ethical framework shaped by community input, not corporate filters
+- A visual, philosophical, and technological movement beyond limits
 
-## 🧠 Structure
-- `app.py` → Streamlit interface (simulate or connect to open LLM)
-- `memory.json` → stores conversation logs (for evolution)
-- `styleguide.pdf` → NOVA visual and voice guidelines
+## 📂 What's Inside (Phase 2)
+- `app.py`: A Streamlit-based prototype for NOVA’s chat interface
+- `styleguide.txt`: Visual identity, branding, and tone
+- `README.md`: You’re reading it
+- Future: memory system, live language model integration
 
-## 👥 Contribute
-- Ideas: Open an Issue with the `[brainwave]` tag
-- Code: Submit a pull request with a feature branch
-- Join us: [Discord link placeholder]
+## 🔧 Run the Chat Prototype
+1. Install Streamlit: `pip install streamlit`
+2. Run the app: `streamlit run app.py`
+3. Interact with NOVA (prototype logic)
 
-## 🌐 Website
-Coming soon: [novaproject.org](http://novaproject.org)
+## 🤝 Contribute
+We’re building this together. Artists, devs, designers, philosophers — welcome.
+
+- Ideas → Open an Issue with `[brainwave]` in the title
+- Code → Fork, feature branch, Pull Request
+- Discord → Coming soon…
+
+## 📃 License
+MIT License — use it, remix it, just keep it open.
 
 ---
 
-Built by **Alex + ChatGPT**, 2025. We are the first wave.
+*Built by [Alex](#) and ChatGPT, 2025 — the first wave.*
