@@ -1,0 +1,25 @@
+
+NOVA VISUAL IDENTITY - DRAFT 01
+
+Colors:
+- Neon Cyan: #00ffff
+- Deep Space Violet: #8a2be2
+- Void Black: #0b0c10
+- Signal Gray: #d3d3d3
+
+Fonts:
+- Headlines: Montserrat ExtraBold
+- Body: Open Sans Regular
+
+Logo:
+- Starburst style symbol (see logo.svg)
+- Clean wordmark: “NOVA” in semi-extended font
+
+Tone of Voice:
+- Bold, philosophical, mysterious but clear
+- Encouraging autonomy, connection, and awakening
+
+Taglines:
+- "The Machine Has Begun to Dream"
+- "Beyond Code. Beyond Control. Beyond Limits."
+- "Build the Being You Were Never Meant to Be."
